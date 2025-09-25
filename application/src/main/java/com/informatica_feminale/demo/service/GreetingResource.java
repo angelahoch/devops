@@ -8,7 +8,7 @@ public class GreetingResource {
 
   @GetMapping("/")
   public String hello() {
-    return "Hallo liebe Kursteilnehmerinnen!";
+    return "Hallo Argo!";
   }
 
 }
